@@ -19,11 +19,15 @@ For each assignment, please answer the following:
 
 - Explain the level of flexibility in your implementation, including how new object types can
 be easily added or removed in the future.
+Answer:  The implementation is quite flexible. To add a new type of beverage, like a new coffee or tea, I just need to create a new class for it and make sure it implements the Beverage interface.
+Removing a beverage type is as easy as deleting its class. Adding or removing condiments like milk or sugar can be done by modifying the VendingMachine class.
 - Discuss the simplicity and understandability of your implementation, ensuring that it is
 easy for others to read and maintain.
+Answer:  The code is straightforward. Each beverage like espresso or black tea has its own class, and these classes all follow the same structure (they all implement the Beverage interface). This makes it easy to understand what each part of the code is doing. 
+The VendingMachine class acts as the central point for creating beverages and adding condiments, which keeps things organized.
 - Describe how you have avoided duplicated code and why it is important.
-- If applicable, mention any design patterns you have used and explain why they were
-chosen.
+Answer: I've avoided repeating code by using the Beverage interface. All beverage types implement this interface, which means they all use the same method names for getting the description and cost. This setup means if we need to change something about how beverages work in general, we only need to change the interface and not each beverage. 
+Not duplicating code is important because it makes the code easier to maintain and less prone to errors.
 
 
 # Maven Commands
