@@ -2,9 +2,9 @@
 | CS-665       | Software Design & Patterns |
 |--------------|----------------------------|
 | Name         | Aman Kumar                 |
-| Date         | MM/DD/YYYY                 |
-| Course       | Fall / Spring / Summer     |
-| Assignment # |                            |
+| Date         | 02/06/2024                 |
+| Course       | Spring                     |
+| Assignment # | 1                          |
 
 # Assignment Overview
 Please add a paragraph or two overviewing the objectives of the assignment.
