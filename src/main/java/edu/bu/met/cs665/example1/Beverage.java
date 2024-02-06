@@ -5,24 +5,25 @@ package edu.bu.met.cs665.example1;
  */
 public interface Beverage {
 
-    /**
+  /**
      * Returns a description of the beverage.
      *
      * @return Description string.
-     */
-    String getDescription();
+   */
+  String getDescription();
 
-    /**
+  /**
      * Calculates the cost of the beverage.
      *
      * @return Cost as a double.
-     */
-    double cost();
+   */
+  double cost();
 
-    /**
-     * Adds the additional cost of the condiments
+  /**
+     * Adds the additional cost of the condiments.
+     *
      * @param additionalCost Cost of the condiments
-     */
+   */
 
-    void addAdditionalCost(double additionalCost);
+  void addAdditionalCost(double additionalCost);
 }
