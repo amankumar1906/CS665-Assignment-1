@@ -7,7 +7,9 @@
 
 # Assignment Overview
 
-Please add a paragraph or two overviewing the objectives of the assignment.
+The primary objective of the assignment is to design and implement a software application that controls a fully automated beverage vending machine capable of brewing various types of coffee and tea, each with the option to add condiments like milk and sugar.
+The system should be flexible enough to easily incorporate new beverage types and condiment options in the future.
+Although the implementation of a graphical user interface is not a requirement, the software should simulate user interactions and demonstrate the system's capabilities through unit testing, thereby proving its readiness for integration with a user-facing interface.
 
 # GitHub Repository Link:
 

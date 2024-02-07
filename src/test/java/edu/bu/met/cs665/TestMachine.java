@@ -1,3 +1,11 @@
+/**
+ * Name: Aman Kumar
+ * Course: CS-665 Software Designs & Patterns
+ * Date: 02/07/2024
+ * File Name: TestMachine.java
+ * Description: This class tests the Vending Machine in 5 different ways.
+ */
+
 package edu.bu.met.cs665;
 
 import static org.junit.Assert.*;
