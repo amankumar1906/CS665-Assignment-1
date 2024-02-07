@@ -1,3 +1,12 @@
+/**
+ * Name: Aman Kumar
+ * Course: CS-665 Software Designs & Patterns
+ * Date: 02/07/2024
+ * File Name: BlackTea.java
+ * Description: This class defines the behavior of a Black Tea,
+ * implementing the Beverage interface.
+ */
+
 package edu.bu.met.cs665.example1.tea;
 
 import edu.bu.met.cs665.example1.Beverage;

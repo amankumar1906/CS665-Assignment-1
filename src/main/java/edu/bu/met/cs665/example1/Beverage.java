@@ -1,3 +1,10 @@
+/**
+ * Name: Aman Kumar
+ * Course: CS-665 Software Designs & Patterns
+ * Date: 02/07/2024
+ * File Name: Beverage.java
+ * Description: This class defines the interface of Beverage
+ */
 package edu.bu.met.cs665.example1;
 
 /**

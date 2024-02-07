@@ -1,3 +1,12 @@
+/**
+ * Name: Aman Kumar
+ * Course: CS-665 Software Designs & Patterns
+ * Date: 02/07/2024
+ * File Name: Macchiato.java
+ * Description: This class defines the behavior of an Macchiato coffee,
+ * implementing the Beverage interface.
+ */
+
 package edu.bu.met.cs665.example1.coffee;
 
 import edu.bu.met.cs665.example1.Beverage;

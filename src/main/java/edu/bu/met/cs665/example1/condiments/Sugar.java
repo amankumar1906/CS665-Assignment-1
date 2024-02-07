@@ -1,3 +1,11 @@
+/**
+ * Name: Aman Kumar
+ * Course: CS-665 Software Designs & Patterns
+ * Date: 02/07/2024
+ * File Name: Sugar.java
+ * Description: This class defines the behavior of Sugar
+ */
+
 package edu.bu.met.cs665.example1.condiments;
 
 /**
